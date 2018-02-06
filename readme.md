@@ -22,3 +22,5 @@ Run general system and user checks.  Use -c to run cron check.
 Searches the entire system for immutable files, then asks if you would like to remove the immutable flag.  Should be run as root to avoid permission denied errors.
 * **pswd_kill**
 Changes the password to all users using the bash shell then offers the option to kill all active connections in case the system has been comprimised.  Must be ran as root.
+* **rbusybox**
+usage: `./rbusybox <remoteUser> <remoteHost> <command>`  Send busybox to remote host and execute <command> under user <remoteUser>
