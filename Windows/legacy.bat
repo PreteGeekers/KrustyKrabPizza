@@ -5,11 +5,10 @@ cls
 echo Immediately checking for Administrative access
 net sessions
 if %errorlevel%==0 (
-echo Yay you have Admin u no how2windows GG
+echo Adminitrative access confirmed
 goto :adminhop
 ) else (
-echo Lol u r bad
-echo N0 Adm1n n00b!
+echo You must run this script with administrative priviledges
 pause
 exit
 )
