@@ -11,7 +11,7 @@ Most of these scripts have been taken from Alum git repos.
 | phpBB                     | 192.168.x.15 | 80, 22          |
 | Custom WebApp             | 192.168.x.16 | 80, 22          |
 | Password Reset Page       | 192.168.x.17 | 80              |
-| Node JS                   | 192.168.x.18 | 80              |
+| Node JS                   | 192.168.x.18 | 80, 22          |
 
 * [Windows Domain Controller](https://technet.microsoft.com/en-us/library/cc977987.aspx)
   * Windows DCs are the central control point for Windows Domains. Policies, Users, Groups, and Security settings are centrally
