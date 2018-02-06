@@ -30,3 +30,5 @@ Searches the entire system for immutable files, then asks if you would like to r
 Changes the password to all users using the bash shell then offers the option to kill all active connections in case the system has been comprimised.  Must be ran as root.
 * **rbusybox**
 usage: `./rbusybox <remoteUser> <remoteHost> <command>`  Send busybox to remote host and execute <command> under user <remoteUser>
+* **linux.sh**
+Someone on Linux read through this.  Looks super useful. Taken from https://github.com/mike-bailey
