@@ -13,6 +13,26 @@ Most of these scripts have been taken from Alum git repos.
 | Password Reset Page       | 192.168.x.17 | 80              |
 | Node JS                   | 192.168.x.18 | 80              |
 
+* [Windows Domain Controller](https://technet.microsoft.com/en-us/library/cc977987.aspx)
+  * Windows DCs are the central control point for Windows Domains. Policies, Users, Groups, and Security settings are centrally
+managed from these systems
+* [Gitlab](https://docs.gitlab.com/)
+  * Git repository manager with a wiki, issue tracking, CI and CD. It is a great way to manage Git repositories on a centralized server. GitLab gives you complete control over your repositories or projects and allows you to decide whether they are public or private.
+* [Windows Tomcat Server](https://tomcat.apache.org/tomcat-9.0-doc/index.html)
+  * Tomcat is an open-source Java Servlet Container developed by the Apache Software Foundation (ASF). Tomcat implements several Java EE specifications including Java Servlet, JavaServer Pages (JSP), Java EL, and WebSocket, and provides a "pure Java" HTTP web server environment in which Java code can run.
+* [Windows WSUS](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus)
+  * Windows Update Service
+* [Jenkins](https://jenkins.io/doc/)
+  * Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks such as building, testing, and deploying software. Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with the Java Runtime Environment installed.
+* [phpBB](https://www.phpbb.com/support/docs/en/)
+  * phpBB is an Internet forum package in the PHP scripting language. Features include support for multiple database engines (PostgreSQL, SQLite, MySQL, Oracle Database, Microsoft SQL Server), flat message structure (as opposed to threaded), hierarchical subforums, topic split/merge/lock, user groups, multiple attachments per post, full-text search, plugins and various notification options (e-mail, Jabber instant messaging, ATOM feeds).
+* [Custom WebApp](https://www.owasp.org/index.php/Top_10-2017_Top_10)
+  * This web app was created by and needed to be supported by the developers of your company. What it’s used for and why it exists is not apparent, but it’s legacy and management says it must stay and operate how it is. 
+* Password Reset Page
+  * This is how users in your organization change their passwords.
+* [Node JS](https://nodejs.org/en/docs/)
+  * Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. It enables JavaScript to be used for server-side scripting, and runs scripts server-side to produce dynamic web page content before the page is sent to the user's web browser
+
 # Windows Resources
 
 Scripts
