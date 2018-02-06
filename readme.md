@@ -15,6 +15,7 @@ Not sure what this does yet, the code is messy.  https://github.com/mike-bailey
 
 Other Resources
 ---------------
+[Custom View In Event Viewer](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc709635%28v%3dws.10%29)
 
 # Linux Resources
 
