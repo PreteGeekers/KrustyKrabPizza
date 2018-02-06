@@ -32,3 +32,5 @@ Changes the password to all users using the bash shell then offers the option to
 usage: `./rbusybox <remoteUser> <remoteHost> <command>`  Send busybox to remote host and execute <command> under user <remoteUser>
 * **linux.sh**
 Someone on Linux read through this.  Looks super useful. Taken from https://github.com/mike-bailey
+* **mdc3bash.sh**
+Same as linux.sh.
