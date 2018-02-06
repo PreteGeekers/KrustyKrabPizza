@@ -8,6 +8,8 @@ Scripts
 This script watches the directory and its subdirectories for file creation, modification, and deletion.
 * **computercheck.bat**
 Looks for suspicious files on file system. Taken from https://github.com/mike-bailey
+* **generatereports.bat**
+Generates reports about general system info. Taken from https://github.com/mike-bailey
 
 Other Resources
 ---------------
