@@ -1,5 +1,18 @@
 Most of these scripts have been taken from Alum git repos.
 
+# Services
+| Server                    | Internal IP  | Ports           |
+| ------------------------- | ------------ | --------------- |
+| Windows Domain Controller | 192.168.x.10 | 88, 3389, 445   |
+| Gitlab                    | 192.168.x.11 | 80, 443, 22     |
+| Windows Tomcat Server     | 192.168.x.12 | 3389, 8080      |
+| Windows WSUS              | 192.168.x.13 | 445, 3389, 8530 |
+| Jenkins                   | 192.168.x.14 | 80, 22          |
+| phpBB                     | 192.168.x.15 | 80, 22          |
+| Custom WebApp             | 192.168.x.16 | 80, 22          |
+| Password Reset Page       | 192.168.x.17 | 80              |
+| Node JS                   | 192.168.x.18 | 80              |
+
 # Windows Resources
 
 Scripts
