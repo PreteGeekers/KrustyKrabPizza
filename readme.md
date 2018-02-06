@@ -1,6 +1,8 @@
 Most of these scripts have been taken from Alum git repos.
 
 # Services
+**Our IP range is 192.168.30.0/24**
+
 | Server                    | Internal IP  | Ports           |
 | ------------------------- | ------------ | --------------- |
 | Windows Domain Controller | 192.168.x.10 | 88, 3389, 445   |
