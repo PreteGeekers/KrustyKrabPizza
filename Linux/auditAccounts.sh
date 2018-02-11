@@ -6,9 +6,9 @@ then
     AUTHKEYFILE=`grep AuthorizedKeysFile /etc/ssh/sshd_config | awk '{print $2}'`
 fi
 
+cat /etc/shells
 for u in `cat /etc/passwd`
 do
-     `cat /etc/shells`
      PASSWD="False"
      HOMEDIR=`echo $u | awk -F':' '{ print $6}'`
      USER=`echo $u | awk -F':' '{ print $1}'`
