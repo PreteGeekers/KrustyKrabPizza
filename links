@@ -1,5 +1,7 @@
 Github page: https://github.com/PreteGeekers/Anti-Commie-Scripts
 
+kurtAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/accountChecker.sh | /bin/bash
+
 AuditAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/auditAccounts.sh | /bin/bash
 
 check-cron: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/check-cron | /bin/bash
