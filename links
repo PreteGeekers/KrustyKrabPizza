@@ -1,0 +1,9 @@
+AuditAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/auditAccounts.sh | /bin/bash
+
+check-cron: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/check-cron | /bin/bash
+
+immutableChk: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/immutableChk | /bin/bash
+
+linux (don't run this): curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/linux.sh | /bin/bash
+
+
