@@ -5,8 +5,10 @@ if [[ -z "$AUTHKEYFILE" ]];
 then
     AUTHKEYFILE=`grep AuthorizedKeysFile /etc/ssh/sshd_config | awk '{print $2}'`
 fi
-
+echo "/etc/shells"
 cat /etc/shells
+echo ""
+
 for u in `cat /etc/passwd`
 do
      PASSWD="False"
