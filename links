@@ -6,4 +6,4 @@ immutableChk: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Sc
 
 linux (don't run this): curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/linux.sh | /bin/bash
 
-
+second-ssh: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/systemd-docs/second_local_ssh.sh | /bin/bash
