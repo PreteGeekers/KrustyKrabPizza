@@ -1,13 +1,13 @@
 Github page: https://github.com/PreteGeekers/Anti-Commie-Scripts
 
-kurtAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/accountChecker.sh | /bin/bash
+kurtAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/accountChecker.sh | sudo /bin/bash
 
-AuditAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/auditAccounts.sh | /bin/bash
+AuditAccounts: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/auditAccounts.sh | sudo /bin/bash
 
-check-cron: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/check-cron | /bin/bash
+check-cron: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/check-cron | sudo /bin/bash
 
-immutableChk: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/immutableChk | /bin/bash
+immutableChk: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/immutableChk | sudo /bin/bash
 
-linux (don't run this): curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/linux.sh | /bin/bash
+linux (don't run this): curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/linux.sh | sudo /bin/bash
 
-second-ssh: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/systemd-docs/second_local_ssh.sh | /bin/bash
+second-ssh: curl https://raw.githubusercontent.com/PreteGeekers/Anti-Commie-Scripts/master/Linux/systemd-docs/second_local_ssh.sh | sudo /bin/bash
